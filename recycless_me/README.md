@@ -42,7 +42,7 @@ Smart contracts written in **Algopy (Python)** manage both global and per-user r
 * **Network:** Algorand TestNet
 * **Smart Contract ID:** `749003481`
 * **Deployed Address:** `D2QCD4DYE77FUO7BOIZQTJWTH7ORANVZXYKPWRW4BJ7OHDMUC2AKNOOTLI`
-* **View on AlgoExplorer:** [View Smart Contract on Algorand](https://testnet.algoexplorer.io/application/XXX)
+* **View on AlgoExplorer:** [View Smart Contract on Algorand](https://lora.algokit.io/testnet/application/749003481)
 
 > 🧱 *We are still building using algopy — stay tuned for mainnet deployment!*
 
