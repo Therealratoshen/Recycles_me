@@ -40,8 +40,8 @@ Smart contracts written in **Algopy (Python)** manage both global and per-user r
 ## 🔗 Deployed Smart Contract
 
 * **Network:** Algorand TestNet
-* **Smart Contract ID:** `XXX`
-* **Deployed Address:** `XXX`
+* **Smart Contract ID:** `749003481`
+* **Deployed Address:** `D2QCD4DYE77FUO7BOIZQTJWTH7ORANVZXYKPWRW4BJ7OHDMUC2AKNOOTLI`
 * **View on AlgoExplorer:** [View Smart Contract on Algorand](https://testnet.algoexplorer.io/application/XXX)
 
 > 🧱 *We are still building using algopy — stay tuned for mainnet deployment!*
@@ -117,6 +117,3 @@ We believe every line of code can help the planet 🌱
 
 MIT License © 2025 – Recycle Me Team
 Built with ❤️ on Algorand.
-
-
-ID: 749003481
