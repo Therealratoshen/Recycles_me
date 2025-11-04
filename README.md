@@ -1,4 +1,4 @@
-# ♻️ Recycle Me – Built on Algorand
+# ♻️ Recycle_me – Built on Algorand
 
 > A decentralized recycling tracker that rewards sustainability.
 > Empowering users to make an impact — one recycled bottle at a time.
