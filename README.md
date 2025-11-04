@@ -7,7 +7,7 @@
 
 ## 🌍 Project Description
 
-**Recycle Me** is a dApp built on the **Algorand blockchain** using **Algopy**.
+**Recycle_me** is a dApp built on the **Algorand blockchain** using **Algopy**.
 It aims to encourage and track bottle recycling by storing verified recycling data on-chain.
 Each bottle recycled is recorded immutably, enabling transparency, accountability, and potential reward distribution for eco-friendly actions.
 
